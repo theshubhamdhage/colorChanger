@@ -31,6 +31,22 @@
     background-color: #27ae60;
 }
 
+.seven{
+    background-color: #3742fa;
+}
+
+.eight{
+    background-color: #2ed573;
+}
+
+.nine{
+    background-color: #eccc68;
+}
+
+.ten{
+    background-color: #57606f;
+}
+
 body{
     min-height: 100vh;
     background-color: #2c3e50;
